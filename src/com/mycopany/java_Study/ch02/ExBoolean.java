@@ -15,7 +15,7 @@ public class ExBoolean {
 		//변수명은 dafault2NY로 불리언 변수선언 초기값은 false
 		//변수명은
 		boolean default2NY = false;
-		if(dafault1NY = false) {
+		if(dafault1NY) {
 			System.out.println("기본값입니다.");
 		}else {
 			System.out.println("여분값입니다.");
