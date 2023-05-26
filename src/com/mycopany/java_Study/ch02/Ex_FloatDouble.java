@@ -24,6 +24,12 @@ public class Ex_FloatDouble {
 		System.out.println("var6: "+ var6);
 		System.out.println("var7: "+ var7);
 		//E7의 경우 10의 -7승을 했다라는 의
+		float var8 = 3;
+		float var9 = 3.14f;
+		float var10 = 3.14F;
+		System.out.println("var8: "+ var8);
+		System.out.println("var9: "+ var9);
+		System.out.println("var10: "+ var10);
 	}
 
 }
