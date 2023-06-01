@@ -105,6 +105,8 @@ public class TrExif123remind {
 		}else {
 			System.out.println("홀짝을 구분할 수 없습니다.");
 		}
+		
+		//ch04.04
 	}
 
 }
