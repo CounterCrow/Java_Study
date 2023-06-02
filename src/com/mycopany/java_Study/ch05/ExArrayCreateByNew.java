@@ -1,7 +1,5 @@
 package com.mycopany.java_Study.ch05;
 
-import java.util.Iterator;
-
 public class ExArrayCreateByNew {
 
 	public static void main(String[] args) {
@@ -14,13 +12,13 @@ public class ExArrayCreateByNew {
 		arr1[2] = 80;
 		
 		System.out.println("arr1.length: "+arr1.length);
-		
+		/*
 		int[] arr2 = new int[3];
 		for (int i = 0; i < arr2.length; i++) {
 			arr2[i] = 10+10*i;
 			System.out.println(arr2[i]);
 		}
-		
+		*/
 		
 	}
 
