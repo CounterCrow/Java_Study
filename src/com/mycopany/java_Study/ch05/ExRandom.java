@@ -7,6 +7,14 @@ public class ExRandom {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		int min = 1;
+		int max = 45;
+		int random = (int)((Math.random()*(max-min))+min);
+		System.out.println("random: "+ random);
+		
+		
+		
+		
 		int[] lotto = new int[45];
 		int i = 0;
 		while(i<45) {
