@@ -1226,7 +1226,7 @@ public class TrLotto {
         	}else {
         		//else by
         	}
-        	// 
+        	
         }
         System.out.println(Arrays.toString(nums));
     	System.out.println("---------------------------");
