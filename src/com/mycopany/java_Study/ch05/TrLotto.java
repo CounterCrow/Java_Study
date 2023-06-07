@@ -1209,7 +1209,8 @@ public class TrLotto {
                     	xnum = true;
                         break;
                 		}
-                	 }                          
+                	 }         
+                //zz
                 if (!xnum) {
                     nums[count] = number;
                     lotto[index] = 0;
